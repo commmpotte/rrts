@@ -19,4 +19,5 @@ To run the application locally, clone the repository and run npm install to inst
 Feel free to explore the code and modify it according to your needs. Enjoy!
 
 Screenshot for sure:
-<img width="761" alt="Снимок экрана 2023-07-08 в 20 50 43" src="https://github.com/commmpotte/rdx_ts_react/assets/95095531/8562545d-31a8-4dcc-a382-3a79446dbf12">
+<img width="761" alt="Снимок экрана 2023-07-08 в 20 50 43" src="https://github.com/commmpotte/rrts/assets/95095531/f88293c9-7e92-4ccc-9f84-f41cb6b96400">
+
